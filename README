@@ -1,0 +1,26 @@
+News Website
+This is a news website project that uses HTML, CSS, and JavaScript to display news articles from various sources. The website is built using the NewsAPI, which provides access to a wide range of news articles from different categories, including cricket and more.
+
+Features
+Displays news articles from various sources
+Categorizes news articles into different categories, including cricket
+Allows users to read full articles by clicking on the headlines
+Provides a clean and responsive user interface
+Supports mobile and desktop devices
+Technologies Used
+HTML
+CSS
+JavaScript
+Getting Started
+To get started with the project, follow these steps:
+
+Clone the repository: git clone https://github.com/MayurPondkule/global-news.git
+Open the project folder.
+Open index.html in your web browser to view the website.
+Configuration
+The project uses the NewsAPI to fetch news articles. To configure the API access, follow these steps:
+
+Sign up for an account at NewsAPI.
+Obtain an API key from your NewsAPI account.
+Open script.js file.
+Replace YOUR_API_KEY with your actual NewsAPI key.
